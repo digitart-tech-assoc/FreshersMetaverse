@@ -67,7 +67,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 19a64c9853b5eb247830e3742cce62ec, type: 2}
+  - {fileID: 2100000, guid: d1b65dfa4e417c942bbbf8a2751afb7c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -159,5 +159,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: ClusterVR.CreatorKit.Item.Implements::ClusterVR.CreatorKit.Item.Implements.Item
   id:
     value: 0
-  itemName: "\u5165\u30B5\u30FC\u306E\u624B\u7B48"
+  itemName: "\u5E74\u9593\u884C\u4E8B\u4E88\u5B9A9~3\u6708"
   size: {x: 1, y: 0, z: 0}
